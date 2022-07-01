@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="352fccb3-8334-4737-8b2b-5a94ac5b295f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu2/InsaneColouredTriangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu3/AlphabeticAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu3/BinomialExpansion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu3/IceMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu4/BefungeInterpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu4/DecodeTheMorseCodeAdvanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu4/HammingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu4/HumanReadableDurationFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu4/MagnetParticlesInBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu4/MostFrequentlyUsedWordsInAText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu4/ParseIntReloaded.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu4/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu4/PyramidSlideDown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu4/StripComments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu4/TheGreatestWarrior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu5/GreedIsGood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu5/IsMyFriendCheating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu5/JosephusSurvivor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu5/SimplePigLatin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu6/BouncingBalls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu6/BreakCamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu6/ConvertStringToCamelCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu6/DecodeTheMorseCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu6/HighestScoringWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu6/RomanNumeralsEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu6/WhichAreIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu7/ColouredTriangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu7/ExesAndOhs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu7/FindTheNextPerfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu7/OnesAndZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu2/InsaneColouredTrianglesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu3/AlphabeticAnagramsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu3/BinomialExpansionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu3/IceMazeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu4/BefungeInterpreterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu4/DecodeTheMorseCodeAdvancedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu4/HammingNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu4/HumanReadableDurationFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu4/MagnetParticlesInBoxesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu4/MostFrequentlyUsedWordsInATextTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu4/ParseIntReloadedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu4/PermutationsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu4/PyramidSlideDownTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu4/StripCommentsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu4/TheGreatestWarriorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu5/GreedIsGoodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu5/IsMyFriendCheatingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu5/JosephusSurvivorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu5/SimplePigLatinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu6/BouncingBallsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu6/BreakCamelCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu6/ConvertStringToCamelCaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu6/DecodeTheMorseCodeAdvancedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu6/HighestScoringWordTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu6/RomanNumeralsEncoderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu6/WhichAreInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu7/ColouredTrianglesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu7/ExesAndOhsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu7/FindTheNextPerfectSquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu7/OnesAndZeroesTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BMFUFVUC7nGULwUGCNyJiCydJ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Jorge\work\katas\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="kyu4" />
+      <recent name="kyu5" />
+      <recent name="kyu6" />
+      <recent name="kyu2" />
+      <recent name="kyu3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="IceMazeTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;kyu3.IceMazeTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.IceMazeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="352fccb3-8334-4737-8b2b-5a94ac5b295f" name="Changes" comment="" />
+      <created>1656708062057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656708062057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
