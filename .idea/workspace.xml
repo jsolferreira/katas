@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="352fccb3-8334-4737-8b2b-5a94ac5b295f" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu3/AlphameticsSolver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/kyu4/NextSmallerNumberWithTheSameDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu3/AlphameticsSolverTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/kyu4/NextSmallerNumberWithTheSameDigitsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="352fccb3-8334-4737-8b2b-5a94ac5b295f" name="Changes" comment="4 kyu - Next smaller number with the same digits">
+      <change afterPath="$PROJECT_DIR$/src/main/java/kyu6/MultiTapKeypadTextEntryOnAnOldMobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/kyu6/MultiTapKeypadTextEntryOnAnOldMobilePhoneTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -27,6 +24,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -65,7 +72,7 @@
       <recent name="kyu3" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.NextSmallerNumberWithTheSameDigitsTest.basicTests">
+  <component name="RunManager" selected="Gradle.MultiTapKeypadTextEntryOnAnOldMobilePhoneTest.simpleTest">
     <configuration name="AlphameticsSolverTest.FixedTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -112,6 +119,29 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="MultiTapKeypadTextEntryOnAnOldMobilePhoneTest.simpleTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;kyu6.MultiTapKeypadTextEntryOnAnOldMobilePhoneTest.simpleTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="NextSmallerNumberWithTheSameDigitsTest.basicTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -137,6 +167,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MultiTapKeypadTextEntryOnAnOldMobilePhoneTest.simpleTest" />
         <item itemvalue="Gradle.NextSmallerNumberWithTheSameDigitsTest.basicTests" />
         <item itemvalue="Gradle.AlphameticsSolverTest.FixedTests" />
         <item itemvalue="Gradle.IceMazeTest" />
