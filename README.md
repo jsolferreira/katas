@@ -39,3 +39,4 @@
 | 7   | [The Office I - Outed](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)                               | [TheOfficeIOuted.java](src/main/java/kyu7/TheOfficeIOuted.java)                                                     |
 | 7   | [The Office II - Boredom Score](https://www.codewars.com/kata/57ed4cef7b45ef8774000014)                      | [TheOfficeIIBoredomScore.java](src/main/java/kyu7/TheOfficeIIBoredomScore.java)                                     |
 | 7   | [The Office III - Broken Photocopier](https://www.codewars.com/kata/57ed56657b45ef922300002b)                | [TheOfficeIIIBrokenPhotocopier.java](src/main/java/kyu7/TheOfficeIIIBrokenPhotocopier.java)                         |
+| 7   | [The Office IV - Find a Meeting Room](https://www.codewars.com/kata/57f604a21bd4fe771b00009c)                | [TheOfficeIVFindAMeetingRoom.java](src/main/java/kyu7/TheOfficeIVFindAMeetingRoom.java)                             |
