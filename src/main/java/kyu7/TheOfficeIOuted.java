@@ -1,7 +1,6 @@
 package kyu7;
 
 import java.util.Arrays;
-import java.util.stream.Collectors;
 
 public class TheOfficeIOuted {
 
@@ -16,8 +15,6 @@ public class TheOfficeIOuted {
     }
 
     public static String outed(Person[] meet, String boss) {
-
-        System.out.println(Arrays.stream(meet).map(x -> x.name).collect(Collectors.toList()));
 
         return Arrays.stream(meet)
                 .filter(person -> person.name.equals(boss))
