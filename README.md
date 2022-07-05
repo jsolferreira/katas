@@ -2,7 +2,7 @@
 
 | Kyu | Kata                                                                                                         | Solution                                                                                                            |
 |-----|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| 2   | [Insane Coloured Triangles](https://www.codewars.com/kata/5a331ea7ee1aae8f24000175)                          | [InsaneColouredTriangle.java](src/main/java/kyu2/InsaneColouredTriangles.java)                                      |
+| 2   | [Insane Coloured Triangles](https://www.codewars.com/kata/5a331ea7ee1aae8f24000175)                          | [InsaneColouredTriangles.java](src/main/java/kyu2/InsaneColouredTriangles.java)                                     |
 | 3   | [Alphabetic Anagrams](https://www.codewars.com/kata/53e57dada0cb0400ba000688)                                | [AlphabeticAnagrams.java](src/main/java/kyu3/AlphabeticAnagrams.java)                                               |
 | 3   | [ASCII Games: Warning: Ice!](https://www.codewars.com/kata/58f4cc4e43251b1be6000082)                         | [IceMaze.java](src/main/java/kyu3/IceMaze.java)                                                                     |
 | 3   | [Binomial Expansion](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b)                                 | [BinomialExpansion.java](src/main/java/kyu3/BinomialExpansion.java)                                                 |
