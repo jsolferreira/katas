@@ -37,3 +37,4 @@
 | 7   | [Find the next perfect square!](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)                      | [FindTheNextPerfectSquare.java](src/main/java/kyu7/FindTheNextPerfectSquare.java)                                   |
 | 7   | [Ones and Zeroes](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)                                    | [OnesAndZeroes.java](src/main/java/kyu7/OnesAndZeroes.java)                                                         |
 | 7   | [The Office I - Outed](https://www.codewars.com/kata/57ecf6efc7fe13eb070000e1)                               | [TheOfficeIOuted.java](src/main/java/kyu7/TheOfficeIOuted.java)                                                     |
+| 7   | [The Office II - Boredom Score](https://www.codewars.com/kata/57ed4cef7b45ef8774000014)                      | [TheOfficeIIBoredomScore.java](src/main/java/kyu7/TheOfficeIIBoredomScore.java)                                     |
