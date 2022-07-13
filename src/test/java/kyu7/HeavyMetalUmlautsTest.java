@@ -1,7 +1,7 @@
 package kyu7;
 
+import org.junit.BeforeClass;
 import org.junit.jupiter.api.Test;
-import org.testng.annotations.BeforeClass;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
