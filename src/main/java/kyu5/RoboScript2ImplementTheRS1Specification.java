@@ -39,7 +39,7 @@ public class RoboScript2ImplementTheRS1Specification {
         LEFT,
         RIGHT,
         UP,
-        DOWN;
+        DOWN
     }
 
     public static String execute(String code) {
