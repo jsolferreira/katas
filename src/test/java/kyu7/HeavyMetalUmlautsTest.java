@@ -1,13 +1,13 @@
 package kyu7;
 
-import org.junit.BeforeClass;
+import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class HeavyMetalUmlautsTest {
 
-    @BeforeClass
+    @BeforeAll
     public static void testUnicode() {
         if (!"Ä".equals("\u00c4")) {
             //"Ä".equals("\u00c4") return false so use only escaped characters for this kata
