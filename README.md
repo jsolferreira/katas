@@ -2,6 +2,7 @@
 
 | Kyu | Kata                                                                                                         | Solution                                                                                                            |
 |-----|--------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| 2   | [Evaluate mathematical expression](https://www.codewars.com/kata/52a78825cdfc2cfc87000005)                   | [EvaluateMathematicalExpression.java](src/main/java/kyu2/EvaluateMathematicalExpression.java)                       |
 | 2   | [Insane Coloured Triangles](https://www.codewars.com/kata/5a331ea7ee1aae8f24000175)                          | [InsaneColouredTriangles.java](src/main/java/kyu2/InsaneColouredTriangles.java)                                     |
 | 3   | [Alphabetic Anagrams](https://www.codewars.com/kata/53e57dada0cb0400ba000688)                                | [AlphabeticAnagrams.java](src/main/java/kyu3/AlphabeticAnagrams.java)                                               |
 | 3   | [ASCII Games: Warning: Ice!](https://www.codewars.com/kata/58f4cc4e43251b1be6000082)                         | [IceMaze.java](src/main/java/kyu3/IceMaze.java)                                                                     |
@@ -10,7 +11,7 @@
 | 3   | [Find the cheapest path](https://www.codewars.com/kata/5abeaf0fee5c575ff20000e4)                             | [FindTheCheapestPath.java](src/main/java/kyu3/FindTheCheapestPath.java)                                             |
 | 3   | [RoboScript #4 - RS3 Patterns to the Rescue](https://www.codewars.com/kata/594b898169c1d644f900002e)         | [RoboScript4RS3PatternsToTheRescue.java](src/main/java/kyu3/RoboScript4RS3PatternsToTheRescue.java)                 |
 | 3   | [The Lift](https://www.codewars.com/kata/58905bfa1decb981da00009e)                                           | [TheLift.java](src/main/java/kyu3/TheLift.java)                                                                     |
-| 4   | [A Simplistic TCP Finite State Machine (FSM)](https://www.codewars.com/kata/54acc128329e634e9a000362)        | [ASimplisticTCPFiniteStateMachine.java](src/main/java/kyu4/ASimplisticTCPFiniteStateMachine.java)                                               |
+| 4   | [A Simplistic TCP Finite State Machine (FSM)](https://www.codewars.com/kata/54acc128329e634e9a000362)        | [ASimplisticTCPFiniteStateMachine.java](src/main/java/kyu4/ASimplisticTCPFiniteStateMachine.java)                   |
 | 4   | [Befunge Interpreter](https://www.codewars.com/kata/526c7b931666d07889000a3c)                                | [BefungeInterpreter.java](src/main/java/kyu4/BefungeInterpreter.java)                                               |
 | 4   | [Decode the Morse code, advanced](https://www.codewars.com/kata/54b72c16cd7f5154e9000457)                    | [DecodeTheMorseCodeAdvanced.java](src/main/java/kyu4/DecodeTheMorseCodeAdvanced.java)                               |
 | 4   | [Hamming Numbers](https://www.codewars.com/kata/526d84b98f428f14a60008da)                                    | [HammingNumbers.java](src/main/java/kyu4/HammingNumbers.java)                                                       |
